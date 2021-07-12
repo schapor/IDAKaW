@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = MobileApp001
+title = IDAKaWApp001
 
 # (str) Package name
 package.name = IDAKaW
