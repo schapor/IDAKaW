@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Mobile App 001
+title = IDAKaWApp
 
 # (str) Package name
 package.name = IDAKaW
@@ -28,7 +28,7 @@ source.dir = .
 #source.exclude_patterns = license,images/*/*.jpg
 
 # (str) Application versioning (method 1)
-version = 0.2
+version = 0.3
 
 # (str) Application versioning (method 2)
 # version.regex = __version__ = ['"](.*)['"]
